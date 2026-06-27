@@ -103,5 +103,10 @@ Computed overall churn rate and breakdowns by:
 ---
 
 ## Author
-
+Proteek Chatterjee
 Data analysis project using Python for exploratory data analysis and visualization.
+
+
+
+
+
